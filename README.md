@@ -2,15 +2,15 @@
 
 El objetivo de la prueba es implementar un onboarding para que los usuarios conozcan las funcionalidades que tiene la web de entre las cuales son 3
 
-asesoría personalizada
-Revisa tus seguros
-Recibe ofertas.
+- asesoría personalizada
+- Revisa tus seguros
+- Recibe ofertas.
 
 Realizar un proceso simple previo al ingreso al dashboard en el cual te describa sobre las funcionalidades que cuenta la web, la solución puede ser creativa no existe una sola manera de resolverlo. 
 
 ### Links de Referencia 
-Que es un [Onboarding](https://www.electronicid.eu/es/blog/post/onboarding-digital-banca-sector-financiero/es)
-[Ejemplos](https://uxplanet.org/3-awesome-user-onboarding-flows-for-web-c8b1ec6a508a) de onboarding
+- Que es un [Onboarding](https://www.electronicid.eu/es/blog/post/onboarding-digital-banca-sector-financiero/es)
+- [Ejemplos](https://uxplanet.org/3-awesome-user-onboarding-flows-for-web-c8b1ec6a508a) de onboarding
 
 
 
@@ -22,13 +22,13 @@ no se olviden de Run `npm install`
 
 
 ## Requerimientos 
-Implementación de rutas para llevar del login/registro hacia el dashboard 
-SOLAMENTE la ruta de registro a dashboard tiene que lanzar el onboarding
-Son 3 funcionabilidades las que se tienen que mostrar al usuario.
-Se le tiene que agregar una descripción a cada funcionabilidad
-Una vez mostradas se tienen que desvanecer o desaparecer y poder navegar con normalidad por el dashboard
+- Implementación de rutas para llevar del login/registro hacia el dashboard 
+- SOLAMENTE la ruta de registro a dashboard tiene que lanzar el onboarding
+- Son 3 funcionabilidades las que se tienen que mostrar al usuario.
+- Se le tiene que agregar una descripción a cada funcionabilidad
+- Una vez mostradas se tienen que desvanecer o desaparecer y poder navegar con normalidad por el dashboard
 
 ## Pautas de la prueba
-El proceso de onboardin tiene que ser realizado con componentes nuevos 
-Se puede utilizar ventanas modales para la visibilización de las funcionabilidades (se pueden usar los componentes de bootstrap).
-RECUERDA no existe una sola solución y las respuestas creativas son las mejores.
+- El proceso de onboardin tiene que ser realizado con componentes nuevos 
+- Se puede utilizar ventanas modales para la visibilización de las funcionabilidades (se pueden usar los componentes de bootstrap).
+- RECUERDA no existe una sola solución y las respuestas creativas son las mejores.
