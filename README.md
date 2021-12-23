@@ -6,7 +6,7 @@ El objetivo de la prueba es implementar un onboarding para que los usuarios cono
 - Revisa tus seguros
 - Recibe ofertas.
 
-Realizar un proceso simple previo al ingreso al dashboard en el cual te describa sobre las funcionalidades que cuenta la web, la solución puede ser creativa no existe una sola manera de resolverlo. 
+Realizar 2 flujs simples, El primero previo al ingreso al dashboard viniendo del registro mostrar un onboarding en el cual te describa sobre las funcionalidades que cuenta la web, la solución puede ser creativa no existe una sola manera de resolverlo, El segundo flujo llevar mediante rutas del login directamente al dasboard sin mostrar el onboarding
 
 ### Links de Referencia 
 - Que es un [Onboarding](https://www.electronicid.eu/es/blog/post/onboarding-digital-banca-sector-financiero/es)
@@ -19,6 +19,15 @@ El repositorio cuenta con una estructura base la cual puede ser utilizada para r
 Se ha utilizado bootstrap para el diseño
 
 no se olviden de Run `npm install` 
+
+### Funcionabilidades para mostrar al usuario
+<img width="643" alt="prueba1" src="https://user-images.githubusercontent.com/46875264/147187214-70079f4b-1156-4430-879f-369a6dc7c0b2.PNG">
+
+### flujo 
+
+<img width="1063" alt="flujo" src="https://user-images.githubusercontent.com/46875264/147187789-55fcd68f-b6e8-47cc-803f-361c92da5f88.PNG">
+
+Recuerde que el segundo flujo del Login -> Dasboard no tiene que mostrar el onboarding
 
 
 ## Requerimientos 
