@@ -6,7 +6,7 @@ El objetivo de la prueba es implementar un onboarding para que los usuarios cono
 - Revisa tus seguros
 - Recibe ofertas.
 
-Realizar 2 flujs simples, El primero previo al ingreso al dashboard viniendo del registro mostrar un onboarding en el cual te describa sobre las funcionalidades que cuenta la web, la solución puede ser creativa no existe una sola manera de resolverlo, El segundo flujo llevar mediante rutas del login directamente al dasboard sin mostrar el onboarding
+Realizar 2 flujos simples, El primero previo al ingreso al dashboard viniendo del registro mostrar un onboarding en el cual te describa sobre las funcionalidades que cuenta la web, la solución puede ser creativa no existe una sola manera de resolverlo, El segundo flujo llevar mediante rutas del login directamente al dasboard sin mostrar el onboarding
 
 ### Links de Referencia 
 - Que es un [Onboarding](https://www.electronicid.eu/es/blog/post/onboarding-digital-banca-sector-financiero/es)
@@ -34,7 +34,7 @@ Recuerde que el segundo flujo del Login -> Dasboard no tiene que mostrar el onbo
 - Implementación de rutas para llevar del login/registro hacia el dashboard 
 - SOLAMENTE la ruta de registro a dashboard tiene que lanzar el onboarding
 - Son 3 funcionabilidades las que se tienen que mostrar al usuario.
-- Se le tiene que agregar una descripción a cada funcionabilidad
+- Se le tiene que agregar una descripción a cada funcionabilidad (Puede ser lorem Ipsum)
 - Una vez mostradas se tienen que desvanecer o desaparecer y poder navegar con normalidad por el dashboard
 
 ## Pautas de la prueba
