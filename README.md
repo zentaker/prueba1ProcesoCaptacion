@@ -24,7 +24,7 @@ no se olviden de Run `npm install`
 <img width="643" alt="prueba1" src="https://user-images.githubusercontent.com/46875264/147187214-70079f4b-1156-4430-879f-369a6dc7c0b2.PNG">
 
 ### flujo 
-
+El flujo que se muestra a continuación es el primero solicitado Registro -> onboarding -> dashboard 
 <img width="1063" alt="flujo" src="https://user-images.githubusercontent.com/46875264/147187789-55fcd68f-b6e8-47cc-803f-361c92da5f88.PNG">
 
 Recuerde que el segundo flujo del Login -> Dasboard no tiene que mostrar el onboarding
